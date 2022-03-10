@@ -1,38 +1,18 @@
 {
   "author": "Jan Neruda",
   "contenttype": "poetry",
-  "identifier": "neruda-balady-a-romance-a8b7e96",
+  "identifier": "neruda-balady-a-romance-b704f61",
   "languagecode": "cs",
   "modified": "2022-03-10T14:14:50.156Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Balady a romance",
-  "revision": "a8b7e96",
+  "revision": "b704f61",
   "generatedAt": {
-    "date": "Thu Mar 10 2022 14:30:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646922654808
+    "date": "Thu Mar 10 2022 14:37:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646923064566
   },
   "documents": [
-    {
-      "title": "Balady a romance",
-      "file": "balady_a_romance_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "balady_a_romance_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Balady a romance",
       "file": "balady_a_romance_002.html",
@@ -40,48 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "balady_a_romance_001.html",
-      "next": "balady_a_romance_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Balady a romance",
-      "file": "balady_a_romance_003.html",
-      "words": 5,
-      "chars": 26,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "balady_a_romance_002.html",
-      "next": "balady_a_romance_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Balady a romance",
-      "file": "balady_a_romance_004.html",
-      "words": 85,
-      "chars": 563,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "balady_a_romance_003.html",
+      "order": 0,
+      "prev": null,
       "next": "balady_a_romance_005.html",
       "toc": [
         {
@@ -100,8 +40,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "balady_a_romance_004.html",
+      "order": 1,
+      "prev": "balady_a_romance_002.html",
       "next": "balady_a_romance_006.html",
       "toc": [
         {
@@ -120,7 +60,7 @@
       "chars": 1397,
       "ideas": 45,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "balady_a_romance_005.html",
       "next": "balady_a_romance_007.html",
       "toc": [
@@ -140,7 +80,7 @@
       "chars": 1042,
       "ideas": 26,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "balady_a_romance_006.html",
       "next": "balady_a_romance_008.html",
       "toc": [
@@ -160,7 +100,7 @@
       "chars": 919,
       "ideas": 38,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "balady_a_romance_007.html",
       "next": "balady_a_romance_009.html",
       "toc": [
@@ -180,7 +120,7 @@
       "chars": 1210,
       "ideas": 46,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "balady_a_romance_008.html",
       "next": "balady_a_romance_010.html",
       "toc": [
@@ -200,7 +140,7 @@
       "chars": 2014,
       "ideas": 50,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "balady_a_romance_009.html",
       "next": "balady_a_romance_011.html",
       "toc": [
@@ -220,7 +160,7 @@
       "chars": 1916,
       "ideas": 65,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "balady_a_romance_010.html",
       "next": "balady_a_romance_012.html",
       "toc": [
@@ -240,7 +180,7 @@
       "chars": 1139,
       "ideas": 37,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "balady_a_romance_011.html",
       "next": "balady_a_romance_013.html",
       "toc": [
@@ -260,7 +200,7 @@
       "chars": 663,
       "ideas": 21,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "balady_a_romance_012.html",
       "next": "balady_a_romance_014.html",
       "toc": [
@@ -280,7 +220,7 @@
       "chars": 994,
       "ideas": 34,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "balady_a_romance_013.html",
       "next": "balady_a_romance_015.html",
       "toc": [
@@ -300,7 +240,7 @@
       "chars": 1931,
       "ideas": 77,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "balady_a_romance_014.html",
       "next": "balady_a_romance_016.html",
       "toc": [
@@ -320,7 +260,7 @@
       "chars": 449,
       "ideas": 17,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "balady_a_romance_015.html",
       "next": "balady_a_romance_017.html",
       "toc": [
@@ -340,7 +280,7 @@
       "chars": 1543,
       "ideas": 37,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "balady_a_romance_016.html",
       "next": "balady_a_romance_018.html",
       "toc": [
@@ -360,7 +300,7 @@
       "chars": 1893,
       "ideas": 77,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "balady_a_romance_017.html",
       "next": "balady_a_romance_019.html",
       "toc": [
@@ -380,7 +320,7 @@
       "chars": 997,
       "ideas": 41,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "balady_a_romance_018.html",
       "next": "balady_a_romance_020.html",
       "toc": [
@@ -400,7 +340,7 @@
       "chars": 13,
       "ideas": 1,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "balady_a_romance_019.html",
       "next": "balady_a_romance_021.html",
       "toc": [
@@ -420,7 +360,7 @@
       "chars": 1488,
       "ideas": 58,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "balady_a_romance_020.html",
       "next": "balady_a_romance_022.html",
       "toc": [
@@ -440,7 +380,7 @@
       "chars": 2223,
       "ideas": 47,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "balady_a_romance_021.html",
       "next": "balady_a_romance_023.html",
       "toc": [
@@ -460,9 +400,9 @@
       "chars": 2779,
       "ideas": 66,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "balady_a_romance_022.html",
-      "next": "balady_a_romance_024.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -474,20 +414,20 @@
       ]
     },
     {
-      "title": "Balady a romance",
-      "file": "balady_a_romance_024.html",
-      "words": 48,
-      "chars": 301,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 23,
+      "title": "Tiráž • Balady a romance",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 895,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "balady_a_romance_023.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -501,9 +441,9 @@
       "ideas": 808
     },
     "chapters": {
-      "words": 4795,
-      "chars": 25500,
-      "ideas": 804
+      "words": 4657,
+      "chars": 24610,
+      "ideas": 783
     }
   }
 }

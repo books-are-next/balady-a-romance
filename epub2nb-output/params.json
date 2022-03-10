@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "balady_a_romance_001.md",
             "xhtml": "balady_a_romance_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -50,9 +51,9 @@
             "filename": "balady_a_romance_002.md",
             "xhtml": "balady_a_romance_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -62,9 +63,9 @@
             "filename": "balady_a_romance_003.md",
             "xhtml": "balady_a_romance_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -74,9 +75,9 @@
             "filename": "balady_a_romance_004.md",
             "xhtml": "balady_a_romance_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -91,8 +92,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Volím slovo prosté,..."
           },
           {
             "filename": "balady_a_romance_006.md",
@@ -104,7 +106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada pašijová"
           },
           {
             "filename": "balady_a_romance_007.md",
@@ -116,7 +119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada horská"
           },
           {
             "filename": "balady_a_romance_008.md",
@@ -128,7 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada dětská"
           },
           {
             "filename": "balady_a_romance_009.md",
@@ -140,7 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada česká"
           },
           {
             "filename": "balady_a_romance_010.md",
@@ -152,7 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Romance o Černém jezeře"
           },
           {
             "filename": "balady_a_romance_011.md",
@@ -164,7 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Romance o Karlu IV."
           },
           {
             "filename": "balady_a_romance_012.md",
@@ -176,7 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Romance o jaře 1848"
           },
           {
             "filename": "balady_a_romance_013.md",
@@ -188,7 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Romance italská"
           },
           {
             "filename": "balady_a_romance_014.md",
@@ -200,7 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Romance helgolandská"
           },
           {
             "filename": "balady_a_romance_015.md",
@@ -212,7 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada zimní"
           },
           {
             "filename": "balady_a_romance_016.md",
@@ -224,7 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada stará — stará!"
           },
           {
             "filename": "balady_a_romance_017.md",
@@ -236,7 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada tříkrálová"
           },
           {
             "filename": "balady_a_romance_018.md",
@@ -248,7 +262,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Romance štědrovečerní"
           },
           {
             "filename": "balady_a_romance_019.md",
@@ -260,7 +275,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada májová"
           },
           {
             "filename": "balady_a_romance_020.md",
@@ -272,7 +288,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada rajská"
           },
           {
             "filename": "balady_a_romance_021.md",
@@ -284,7 +301,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o duši Karla Borovského"
           },
           {
             "filename": "balady_a_romance_022.md",
@@ -296,7 +314,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o polce"
           },
           {
             "filename": "balady_a_romance_023.md",
@@ -308,15 +327,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o svatbě v Kanaán"
           },
           {
             "filename": "balady_a_romance_024.md",
             "xhtml": "balady_a_romance_024.xhtml",
             "id": 23,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -333,7 +353,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T14:29:47.286Z"
+      "modified": "2022-03-10T14:36:39.101Z"
     },
     "chapters": [
       {
@@ -546,6 +566,6 @@
       "user": "books-are-next",
       "repo": "balady-a-romance"
     },
-    "generatedAt": 1646922587672
+    "generatedAt": 1646922999483
   }
 }
