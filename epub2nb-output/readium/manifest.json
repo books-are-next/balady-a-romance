@@ -1,0 +1,218 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Balady a romance",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jan Neruda",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-03-10T14:14:50.156Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/balady_a_romance_024.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_balady_a_romance2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Balada pašijová",
+      "href": "OEBPS/Text/balady_a_romance_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Balada horská",
+      "href": "OEBPS/Text/balady_a_romance_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "Balada dětská",
+      "href": "OEBPS/Text/balady_a_romance_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "Balada česká",
+      "href": "OEBPS/Text/balady_a_romance_009.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "Romance o Černém jezeře",
+      "href": "OEBPS/Text/balady_a_romance_010.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "Romance o Karlu IV.",
+      "href": "OEBPS/Text/balady_a_romance_011.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "Romance o jaře 1848",
+      "href": "OEBPS/Text/balady_a_romance_012.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "Romance italská",
+      "href": "OEBPS/Text/balady_a_romance_013.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "Romance helgolandská",
+      "href": "OEBPS/Text/balady_a_romance_014.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "Balada zimní",
+      "href": "OEBPS/Text/balady_a_romance_015.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "Balada stará — stará!",
+      "href": "OEBPS/Text/balady_a_romance_016.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "Balada tříkrálová",
+      "href": "OEBPS/Text/balady_a_romance_017.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "Romance štědrovečerní",
+      "href": "OEBPS/Text/balady_a_romance_018.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "Balada májová",
+      "href": "OEBPS/Text/balady_a_romance_019.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "Balada rajská",
+      "href": "OEBPS/Text/balady_a_romance_020.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Balada o duši Karla Borovského",
+      "href": "OEBPS/Text/balady_a_romance_021.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "Balada o polce",
+      "href": "OEBPS/Text/balady_a_romance_022.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "Balada o svatbě v Kanaán",
+      "href": "OEBPS/Text/balady_a_romance_023.xhtml#_idParaDest-18"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Balady a romance</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jan Neruda</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Balada pašijová</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Balada horská</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Balada dětská</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Balada česká</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Romance o Černém jezeře</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Romance o Karlu IV.</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Romance o jaře 1848</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Romance italská</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Romance helgolandská</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_014.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Balada zimní</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_015.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Balada stará — stará!</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_016.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>Balada tříkrálová</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_017.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Romance štědrovečerní</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_018.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>Balada májová</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_019.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>Balada rajská</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_020.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>Balada o duši Karla Borovského</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_021.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>Balada o polce</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_022.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Balada o svatbě v Kanaán</text>
+      </navLabel>
+      <content src="Text/balady_a_romance_023.xhtml#_idParaDest-18"/>
+    </navPoint>
+  </navMap>
+</ncx>
