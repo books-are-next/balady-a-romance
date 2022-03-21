@@ -344,8 +344,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -353,7 +352,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T14:36:39.101Z"
+      "modified": "2021-11-16T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -566,6 +565,6 @@
       "user": "books-are-next",
       "repo": "balady-a-romance"
     },
-    "generatedAt": 1646922999483
+    "generatedAt": 1647869531794
   }
 }
