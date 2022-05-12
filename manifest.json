@@ -1,21 +1,45 @@
 {
-  "author": "Jan Neruda",
-  "contenttype": "poetry",
-  "identifier": "neruda-balady-a-romance-966ce0d",
-  "languagecode": "cs",
-  "modified": "2022-03-10T14:14:50.156Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Balady a romance",
-  "revision": "966ce0d",
+  "author": "Jan Neruda",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "neruda-balady-a-romance-a8d37ba",
+  "revision": "a8d37ba",
+  "readingOrder": [
+    "promo.html",
+    "balady_a_romance_005.html",
+    "balady_a_romance_006.html",
+    "balady_a_romance_007.html",
+    "balady_a_romance_008.html",
+    "balady_a_romance_009.html",
+    "balady_a_romance_010.html",
+    "balady_a_romance_011.html",
+    "balady_a_romance_012.html",
+    "balady_a_romance_013.html",
+    "balady_a_romance_014.html",
+    "balady_a_romance_015.html",
+    "balady_a_romance_016.html",
+    "balady_a_romance_017.html",
+    "balady_a_romance_018.html",
+    "balady_a_romance_019.html",
+    "balady_a_romance_020.html",
+    "balady_a_romance_021.html",
+    "balady_a_romance_022.html",
+    "balady_a_romance_023.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 21 2022 13:33:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647869585283
+    "date": "Thu May 12 2022 10:39:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351976250
   },
   "documents": [
     {
-      "title": "Balady a romance",
-      "file": "balady_a_romance_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +47,7 @@
       "order": 0,
       "prev": null,
       "next": "balady_a_romance_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Balady a romance",
@@ -41,7 +57,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "balady_a_romance_002.html",
+      "prev": "promo.html",
       "next": "balady_a_romance_006.html",
       "toc": [
         {
@@ -54,7 +70,7 @@
       ]
     },
     {
-      "title": "Balada pašijová • Balady a romance",
+      "title": "Balada pašijová",
       "file": "balady_a_romance_006.html",
       "words": 251,
       "chars": 1397,
@@ -74,7 +90,7 @@
       ]
     },
     {
-      "title": "Balada horská • Balady a romance",
+      "title": "Balada horská",
       "file": "balady_a_romance_007.html",
       "words": 190,
       "chars": 1042,
@@ -94,7 +110,7 @@
       ]
     },
     {
-      "title": "Balada dětská • Balady a romance",
+      "title": "Balada dětská",
       "file": "balady_a_romance_008.html",
       "words": 161,
       "chars": 919,
@@ -114,7 +130,7 @@
       ]
     },
     {
-      "title": "Balada česká • Balady a romance",
+      "title": "Balada česká",
       "file": "balady_a_romance_009.html",
       "words": 254,
       "chars": 1210,
@@ -134,7 +150,7 @@
       ]
     },
     {
-      "title": "Romance o Černém jezeře • Balady a romance",
+      "title": "Romance o Černém jezeře",
       "file": "balady_a_romance_010.html",
       "words": 389,
       "chars": 2014,
@@ -154,7 +170,7 @@
       ]
     },
     {
-      "title": "Romance o Karlu IV. • Balady a romance",
+      "title": "Romance o Karlu IV.",
       "file": "balady_a_romance_011.html",
       "words": 393,
       "chars": 1916,
@@ -174,7 +190,7 @@
       ]
     },
     {
-      "title": "Romance o jaře 1848 • Balady a romance",
+      "title": "Romance o jaře 1848",
       "file": "balady_a_romance_012.html",
       "words": 228,
       "chars": 1139,
@@ -194,7 +210,7 @@
       ]
     },
     {
-      "title": "Romance italská • Balady a romance",
+      "title": "Romance italská",
       "file": "balady_a_romance_013.html",
       "words": 119,
       "chars": 663,
@@ -214,7 +230,7 @@
       ]
     },
     {
-      "title": "Romance helgolandská • Balady a romance",
+      "title": "Romance helgolandská",
       "file": "balady_a_romance_014.html",
       "words": 190,
       "chars": 994,
@@ -234,7 +250,7 @@
       ]
     },
     {
-      "title": "Balada zimní • Balady a romance",
+      "title": "Balada zimní",
       "file": "balady_a_romance_015.html",
       "words": 351,
       "chars": 1931,
@@ -254,7 +270,7 @@
       ]
     },
     {
-      "title": "Balada stará — stará! • Balady a romance",
+      "title": "Balada stará — stará!",
       "file": "balady_a_romance_016.html",
       "words": 83,
       "chars": 449,
@@ -274,7 +290,7 @@
       ]
     },
     {
-      "title": "Balada tříkrálová • Balady a romance",
+      "title": "Balada tříkrálová",
       "file": "balady_a_romance_017.html",
       "words": 300,
       "chars": 1543,
@@ -294,7 +310,7 @@
       ]
     },
     {
-      "title": "Romance štědrovečerní • Balady a romance",
+      "title": "Romance štědrovečerní",
       "file": "balady_a_romance_018.html",
       "words": 345,
       "chars": 1893,
@@ -314,7 +330,7 @@
       ]
     },
     {
-      "title": "Balada májová • Balady a romance",
+      "title": "Balada májová",
       "file": "balady_a_romance_019.html",
       "words": 193,
       "chars": 997,
@@ -334,7 +350,7 @@
       ]
     },
     {
-      "title": "Balada rajská • Balady a romance",
+      "title": "Balada rajská",
       "file": "balady_a_romance_020.html",
       "words": 2,
       "chars": 13,
@@ -354,7 +370,7 @@
       ]
     },
     {
-      "title": "Balada o duši Karla Borovského • Balady a romance",
+      "title": "Balada o duši Karla Borovského",
       "file": "balady_a_romance_021.html",
       "words": 269,
       "chars": 1488,
@@ -374,7 +390,7 @@
       ]
     },
     {
-      "title": "Balada o polce • Balady a romance",
+      "title": "Balada o polce",
       "file": "balady_a_romance_022.html",
       "words": 414,
       "chars": 2223,
@@ -394,7 +410,7 @@
       ]
     },
     {
-      "title": "Balada o svatbě v Kanaán • Balady a romance",
+      "title": "Balada o svatbě v Kanaán",
       "file": "balady_a_romance_023.html",
       "words": 525,
       "chars": 2779,
@@ -414,11 +430,11 @@
       ]
     },
     {
-      "title": "Tiráž • Balady a romance",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 895,
-      "ideas": 22,
+      "words": 120,
+      "chars": 757,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "balady_a_romance_023.html",
@@ -436,9 +452,9 @@
   ],
   "totals": {
     "all": {
-      "words": 4802,
-      "chars": 25534,
-      "ideas": 808
+      "words": 4783,
+      "chars": 25396,
+      "ideas": 803
     },
     "chapters": {
       "words": 4657,

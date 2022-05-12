@@ -51,7 +51,7 @@
             "filename": "balady_a_romance_002.md",
             "xhtml": "balady_a_romance_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -416,7 +416,7 @@
         "xhtml": "balady_a_romance_010.xhtml"
       },
       {
-        "titleSuggest": "Romance o Karlu IV.",
+        "titleSuggest": "Romance o Karlu IV\\.",
         "subtitleSuggest": "",
         "filename": "balady_a_romance_011.md",
         "xhtml": "balady_a_romance_011.xhtml"
@@ -565,6 +565,6 @@
       "user": "books-are-next",
       "repo": "balady-a-romance"
     },
-    "generatedAt": 1647869531794
+    "generatedAt": 1652351469169
   }
 }
