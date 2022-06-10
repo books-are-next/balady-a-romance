@@ -1,7 +1,9 @@
 ---
 title: "Romance o\_Černém jezeře"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _Starý motiv_
 
@@ -14,7 +16,9 @@ jen šedý dravec někdy v prázdné výši kráče,
 a zní to v ozvěnách hor kolem truchle tak,  
 jak v dáli náhlý škytot z dušeného pláče.
 
-  
+</section>
+
+<section>
 
      Můj zrak, sny opleten, se v černou vodu vrývá —  
 ta nezměřená tůň, ta něco dole skrývá!  
@@ -25,7 +29,9 @@ vy bohorovní, úžasní vy hrdinové,
 již na vás zapomněla sirá česká zem  
 a zapomnělo všechno pokolení nové!
 
-  
+</section>
+
+<section>
 
      Ti kdyby zaplakali pro národu hoře,  
 to černé jezero by vzrostlo v černé moře,  
@@ -36,7 +42,9 @@ a porván vzdechy těch, již spolu dole leží,
 však jsou to umrlců již tiché vzdechy jen,  
 a povrchem to jako lehký mrazík běží.
 
-  
+</section>
+
+<section>
 
      Snad podsvětí nás všech zde v podjezerním šeru.  
 Já zíral k horám kdysi v letním pološeru  
@@ -47,7 +55,9 @@ skrz kmeny tiskly se a s větve k větvi nesly,
 než oko dostřehlo, již byly blíž a níž,  
 až jako šedý oblak na hladinu sklesly.
 
-  
+</section>
+
+<section>
 
      Ach smrt jich sílá denně od živoucích stolu,  
 že nestačí noc celá k podsvětí jim dolů,  
@@ -58,7 +68,9 @@ hned divné šepoty jsem slýchal v krokův ruchu
 a v náhle nepokojných tepnách cítil jsem,  
 že na mne z tmavých houštin zírá oko duchů.
 
-  
+</section>
+
+<section>
 
      Jen nahni se a zři ty hnědé rostlin nitě,  
 jak pod vodou se předou v pestře krásné sítě —  
@@ -68,3 +80,5 @@ Jak lehký byl by skok, jak měkký dolů pád,
 a člověk přistoup by ku čárných bájů kolu —  
 já vím, já pevně dím: tam musí něco spát,  
 tam musí něco být — a mne to táhne dolů.
+
+</section>

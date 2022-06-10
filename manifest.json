@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-balady-a-romance-a8d37ba",
-  "revision": "a8d37ba",
+  "identifier": "neruda-balady-a-romance-8033205",
+  "revision": "8033205",
   "readingOrder": [
     "promo.html",
     "balady_a_romance_005.html",
@@ -33,8 +33,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:39:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351976250
+    "date": "Fri Jun 10 2022 17:46:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883216028
   },
   "documents": [
     {
@@ -52,9 +52,9 @@
     {
       "title": "Balady a romance",
       "file": "balady_a_romance_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 12,
+      "chars": 64,
+      "ideas": 3,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -352,9 +352,9 @@
     {
       "title": "Balada rajská",
       "file": "balady_a_romance_020.html",
-      "words": 2,
-      "chars": 13,
-      "ideas": 1,
+      "words": 143,
+      "chars": 777,
+      "ideas": 31,
       "role": "chapter",
       "order": 16,
       "prev": "balady_a_romance_019.html",
@@ -432,9 +432,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 757,
-      "ideas": 17,
+      "words": 80,
+      "chars": 543,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "balady_a_romance_023.html",
@@ -452,14 +452,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4783,
-      "chars": 25396,
-      "ideas": 803
+      "words": 4896,
+      "chars": 26010,
+      "ideas": 826
     },
     "chapters": {
-      "words": 4657,
-      "chars": 24610,
-      "ideas": 783
+      "words": 4810,
+      "chars": 25438,
+      "ideas": 816
     }
   }
 }

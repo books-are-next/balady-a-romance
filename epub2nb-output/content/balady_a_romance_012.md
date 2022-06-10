@@ -1,7 +1,9 @@
 ---
 title: Romance o jaře 1848
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Čas oponou trhnul — a změněn svět!  
 Kam, kam padlo lidstvo staré?  
@@ -13,7 +15,9 @@ vše nové, tak mladě jaré!
      a pěla ji celá nám širá zem  
 a pěli jsme: „Volnost — volnost!“
 
-  
+</section>
+
+<section>
 
 Tak lesklá teď čela, tak kyprý ret  
 a pohled tak vlhce řásný,  
@@ -25,7 +29,9 @@ a každý byl člověk krásný!
      my smáli se, nevěděli proč —  
 ach příznaky první lásky!
 
-  
+</section>
+
+<section>
 
 Jak ku svatbě hluknul se mužstva roj,  
 druh druhovu ruku třímal,  
@@ -37,7 +43,9 @@ byť osud i v děla hřímal.
      z těch každý by stokrát život dal  
 „Za národ i lidstvo celé!“
 
-  
+</section>
+
+<section>
 
 I příroda všude se leskla kol,  
 den každý jak vyhejčkaný,  
@@ -48,3 +56,5 @@ a zlatem byl obetkaný.
      sám pánbůh nás pokynem k tanci zval  
      a blažen se nad námi usmíval:  
 „Nuž konečně lidmi tedy!“
+
+</section>

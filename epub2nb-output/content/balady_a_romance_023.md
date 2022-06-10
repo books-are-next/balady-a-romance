@@ -1,9 +1,11 @@
 ---
 title: Balada o svatbě v Kanaán
-contentType: prose
+contentType: poetry
 ---
 
-          Po celém Kanaánu víří svatby ruch!  
+<section>
+
+Po celém Kanaánu víří svatby ruch!  
      Šest dní tu byli s rozmarýnou vycházeli zváči  
      a poslíčkové až se prohýbali pod koláči,  
                však zato sešel se též slavný hostí kruh!  
@@ -12,7 +14,9 @@ contentType: prose
           a lidé kývali a šlo to od rtu k retu,  
 že nebylo tu ještě také svatby, co je Kanaán.
 
-  
+</section>
+
+<section>
 
           Kol domu žen je žádostivých jako much,  
      a každá živě povídá a každá ráda slouchá,  
@@ -23,7 +27,9 @@ contentType: prose
           ba pětkrát že ji topili jen na pečeně,  
 a výsluhy že uchystáno je pro celý Kanaán.
 
-  
+</section>
+
+<section>
 
           Pak zvědavy zas k oknu obracejí tvář:  
      jak ženich uvnitř hledí ostýchavě, jen jak kradbí  
@@ -34,7 +40,9 @@ a výsluhy že uchystáno je pro celý Kanaán.
           se černé oči svítí, ruka jak se třese —  
 snad brzy zase uzří novou svatbu rodný Kanaán!
 
-  
+</section>
+
+<section>
 
           Vtom náhlý křik a již jsou ženské v jednu hrst!  
      Bylť šíbal starosvat všem zevlujícím ženám venku  
@@ -45,7 +53,9 @@ snad brzy zase uzří novou svatbu rodný Kanaán!
           a tančí, hulají, až všecky smíchy pláčou,  
 a bujný vřískot jejich přes celičký letí Kanaán.
 
-  
+</section>
+
+<section>
 
           Však také hosté vnitř pojednou mění vzhled —  
      vždyť po stolech se šeptem nese nevítaná zpráva,  
@@ -56,7 +66,9 @@ a bujný vřískot jejich přes celičký letí Kanaán.
           a co vám poručí, vy rychle dbejte činu,  
 a starý rozveselí se nám znovu zase Kanaán.“
 
-  
+</section>
+
+<section>
 
           I ptal se Ježíš: „Zdali prázdné štoudve mám?“ —  
      „Šest prázdných zde!“ — „Nuž ze studnice vody  
@@ -68,7 +80,9 @@ a starý rozveselí se nám znovu zase Kanaán.“
           a napil se a v udivení ruku vzpřáhnul:  
 „Aj, takového nikdy vína neurodil Kanaán!“
 
-  
+</section>
+
+<section>
 
           A již zas ozdobných měl řečí dost a dost:  
      „Nuž, páni muzikanti, nástroje své sesbírejte  
@@ -79,7 +93,9 @@ a starý rozveselí se nám znovu zase Kanaán.“
           jež ve dne myrhou dýše, v noci hvězdou svítí —  
 a my pak všichni vzpomeňme si dnešní svatby v Kanaán!“
 
-  
+</section>
+
+<section>
 
           Je ticho kolem. Matka smutně hledí v klín,  
      jeť vidět, zlá že tucha dobrou duši její tísní,  
@@ -89,3 +105,5 @@ a my pak všichni vzpomeňme si dnešní svatby v Kanaán!“
           „Tuš! páni muzikanti. Račtež všichni píti —  
           kde dobří lidé jsou, je vždycky dobře býti —  
 já dím, že věčně vzpomínáno bude svatby v Kanaán!“
+
+</section>

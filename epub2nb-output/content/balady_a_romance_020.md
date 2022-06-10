@@ -1,7 +1,9 @@
 ---
 title: Balada rajská
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Šla Maria, šla do ráje,  
      kdo ji potkal, pěkně klekl,  
@@ -33,3 +35,5 @@ Jenom jednou přišla zpráva,
 než však zrak můj sletěl dolů  
      na ochranu její ctnosti —  
      bylo už zas po věrnosti!““
+
+</section>
