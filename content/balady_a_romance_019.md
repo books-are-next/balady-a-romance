@@ -1,7 +1,9 @@
 ---
 title: Balada májová
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 V bílé míse vodu vaří  
 s úzkostlivě bdělou tváří —  
@@ -14,7 +16,9 @@ jak když cvrček v hroudách cvrlí,
 jak když oknem bzučí moucha,  
 jak dyž v dálce povoz hrčí.
 
-  
+</section>
+
+<section>
 
      Houkla půlnoc. Holka klekla,  
 prsten rychle s ruky svlékla,  
@@ -31,7 +35,9 @@ svatá panno, nevybírám,
 nemysli si, že se vzpírám —  
 jen ne, probůh, zrzavého!“
 
-  
+</section>
+
+<section>
 
      Z mísy vrch se páry valí,  
 a jak holka blíž se kloní,  
@@ -49,3 +55,5 @@ sivé oči jako liška,
 tělo vychrtlé jak tříštka,  
 a je —““  
                   „Dej mi tedy toho!“
+
+</section>

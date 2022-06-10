@@ -1,7 +1,9 @@
 ---
 title: Balada tříkrálová
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Při sterých dětí vřískotu a lidských houfů hluku,  
 při mocném kotlů víření a táhlých trubic zvuku  
@@ -10,7 +12,9 @@ při mocném kotlů víření a táhlých trubic zvuku
 by hlavy naše pánův před pánem se uklonily  
 a bychom slzu radosti zde spolu uronili.“
 
-  
+</section>
+
+<section>
 
 Hned městem zas se berou dál, až k chudobnému stáji,  
 tam s velbloudů svých slézají a řadou poklekají,  
@@ -19,7 +23,9 @@ tam s velbloudů svých slézají a řadou poklekají,
 král řečník zvolený — ten, jenž hned první s kraje klečí —  
 svou úctu svatým pronáší, to tuze pěknou řečí.
 
-  
+</section>
+
+<section>
 
 Pak druhý lichotivě dí: „O matičko ty jasná,  
 jakž je to dítko půvabné — již očička ta krásná —  
@@ -28,7 +34,9 @@ jakž je to dítko půvabné — již očička ta krásná —
 „No je to radost nad radost — jakž, ctěný pane mistře!“  
 Však Ježíšek kýv z jeslí prstem svým a pravil bystře:
 
-  
+</section>
+
+<section>
 
 „Vy králové jste přišli sem, že já jsem ještě dítě,  
 vyť apoštolům svobody se kdys i ukláníte:  
@@ -37,7 +45,9 @@ vyť apoštolům svobody se kdys i ukláníte:
 hned sestrčíte hlavy své pak v strachu dohromady  
 a budete i tupých od biřiců bráti rady.
 
-  
+</section>
+
+<section>
 
 Teď přišli jste sem s poklonou z té světa někde dáli,  
 a sypete mi zlata lesk a kadidlo i chvály,  
@@ -46,7 +56,9 @@ a sypete mi zlata lesk a kadidlo i chvály,
 a k poslední mé cestě skalní ku Golgatě  
 z vás tří se nedostaví žádný — dím to svatosvatě!“ —
 
-  
+</section>
+
+<section>
 
 Král řečník s čela korunu si honem k uchu šoupnul,  
 rád řek by něco, neví co, a zdá se mu, že zhloupnul.  
@@ -54,3 +66,5 @@ rád řek by něco, neví co, a zdá se mu, že zhloupnul.
      druh druhu ve královské ucho rept:  
 „Že z tesařky je přece jen, on každým slovem jeví!“  
 To ví se: přišli se slávou — jak odešli, se neví.
+
+</section>

@@ -1,9 +1,13 @@
 ---
 title: ''
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _Volím slovo prosté,  
 chci tu báji vypravovat,  
 z úst jak lidu roste._
+
+</section>

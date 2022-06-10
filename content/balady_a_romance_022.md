@@ -1,7 +1,9 @@
 ---
 title: "Balada o\_polce"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _Dle vzdáleného motivu_
 
@@ -15,7 +17,9 @@ Ti se budou v pyšném městě, co to přišlo ze vsi, dívat,
 budou nožičkami šoupat, boky vzpírat, bujně zpívat!“  
                        Polka jede — polka jede.
 
-  
+</section>
+
+<section>
 
 Hlasně bičem svojím práskla — je to cesta, je to jízda!  
 Pod saněmi sníh si zpívá, po stromích kdos písně hvízdá,  
@@ -27,7 +31,9 @@ veselostí v mladém těle každá žilka jinou hraje,
 věčně je jí do zpívání, do skoku a do mumraje.  
                        Polka jede — polka jede.
 
-  
+</section>
+
+<section>
 
 Dofičeli pozdě k městu, koníci už samá pěna —  
 ej jakž večer město smutno! Vrata zimně pozamčena,  
@@ -39,7 +45,9 @@ rozhlídla se po staveních, přistoupila ku okénku,
 uvnitř hlas se ozval hrubý: „Kdo to na nás klepá venku?“ —  
                        „Polka jede — polka jede.“ —
 
-  
+</section>
+
+<section>
 
 „Slyšíš, ženo, polka jede! Vejdi dál, můj milý hosti,  
 doufám, že ti dům náš celý bude ihned po libosti!  
@@ -51,7 +59,9 @@ Honem, ženo, pospěš městem, sezvi bohaté i chudé,
 sezvi nám sem staré mladé, ohlašuj a zvěstuj všude:  
                        Polka jede — polka jede!“
 
-  
+</section>
+
+<section>
 
 Přišlo k polce město celé! „Pěkně vítám,“ chudý řekl,  
 bohatý vzal klobouk s hlavy, král i korunu svou smekl.  
@@ -62,3 +72,5 @@ je to přelud nebo pravda — vždyť i světnice se točí —
 stěna sem tam otáčí se, kamna sem tam potácejí,  
 lavice se nadzdvihují, trámy v stropě obracejí —  
                        polka jede — polka jede!
+
+</section>

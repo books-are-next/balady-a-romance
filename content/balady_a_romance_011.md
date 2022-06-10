@@ -1,7 +1,9 @@
 ---
 title: Romance o Karlu IV\.
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Král Karel s Buškem z Vilhartic  
 teď zasedli si k dubovému stolu —  
@@ -12,7 +14,9 @@ ti dva už pili mnohou číši spolu
      dnes, pane Bušku, čehos zvíš!“  
           král Karel vesel káže.
 
-  
+</section>
+
+<section>
 
      „Zde po tom víně, Bušku, slyš,  
 domácí slunce naše vloni hrálo —  
@@ -23,7 +27,9 @@ toť první víno, které v Čechách zrálo —
      Vždyť křiví ústa, láme vaz!“  
           a zlostně rukou mrsknul.
 
-  
+</section>
+
+<section>
 
      „Eh — vezu révu z Burgund sem,“  
 král dál a dál si v zlosti svojí vede,  
@@ -34,7 +40,9 @@ král dál a dál si v zlosti svojí vede,
      a chceš-li klidit pustý smích,  
           zde růže sázet radím!
 
-  
+</section>
+
+<section>
 
      Však jaká země — taký lid!  
 Vás kdyby učit chtěli všichni svatí,  
@@ -45,7 +53,9 @@ zda všimnou si jich Češi paličatí —
      se všechno jinak zvrtne zas —  
           mám já to bídu s vámi!“
 
-  
+</section>
+
+<section>
 
      Přec zase číši k ústům zdvih,  
 a napiv se své velké dobré oči  
@@ -56,7 +66,9 @@ ten však je jako pěna tich.
      a víno ku půnebí tisk  
           a po jazyku válel.
 
-  
+</section>
+
+<section>
 
      „Ba je to bída,“ děl zas král  
 a rychle zavdal sobě vína znovu,  
@@ -67,7 +79,9 @@ tak rychle, jak by bránil zlému slovu;
      že přede mnou je prázdná číš? —  
           A dej mi dobrou míru!
 
-  
+</section>
+
+<section>
 
      Pij, Bušku — již se nezarmuť —  
 a poslyš, co ti král tvůj moudrý praví:  
@@ -78,7 +92,9 @@ můj jazyk je jak známo vybíravý —
      zprv trpké, ale milé zas —  
           my, myslím, se už vpili!“
 
-  
+</section>
+
+<section>
 
      „„Nu vidíš, králi: tak náš lid!  
 Má duši zvláštní — trochu drsná zdá se —  
@@ -88,3 +104,5 @@ však kvete po svém, v osobité kráse —““
      „„ach přibliž k tomu lidu hled  
      a přitiskneš svůj k němu ret  
           a neodtrhneš více!““
+
+</section>

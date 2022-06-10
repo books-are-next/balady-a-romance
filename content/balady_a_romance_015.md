@@ -1,7 +1,9 @@
 ---
 title: Balada zimní
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 Čaroděj šel po silnici  
 v mrazné zimní chumelici,  
@@ -15,7 +17,9 @@ ponoclehujem tu spolu!“
 Zaklel, máchnul rukou v kole,  
 hup! a již jsou všichni dole.
 
-  
+</section>
+
+<section>
 
      Zasedli kruh ve příšerný.  
 Hlavy sobě napravují,  
@@ -30,7 +34,9 @@ celý nahý — v očích ledy,
 po tváři je jíním šedý  
 a po těle střechýl samý.
 
-  
+</section>
+
+<section>
 
 „Vzkřísil jsem vás, dále žijte,  
 tropte dál svou lotrovinu,  
@@ -44,7 +50,9 @@ třetí vína — kapka stačí! —
 vzhůru, leťte, plémě stračí!“  
      Vzlétli jako hejno ptačí.
 
-  
+</section>
+
+<section>
 
      Vzduch jen hvízdnul divým letem  
 a již první snes se zpátky.  
@@ -59,7 +67,9 @@ už tu čtvero měkké lože.
      Nad hlavami teskné vání,  
 jako dálné žalování.
 
-  
+</section>
+
+<section>
 
      A již je tu nazpět druhý.  
 „„Nesu víno, šel jsem zchytra  
@@ -72,7 +82,9 @@ a již vína kolem sudy.
      Ve vzduchu to lačně hučí,  
 jak když šedí vlci skučí.
 
-  
+</section>
+
+<section>
 
 Třetí tu a volá v plesu:  
 „„Svěcenou ti hostij nesu!  
@@ -91,9 +103,13 @@ letí jako plevy vzhůru.
      Ještě zavzdechnutí táhlé,  
 a zas ticho, ticho náhlé.
 
-  
+</section>
+
+<section>
 
      Zimní ticho. Přišlo ráno,  
 s nocí den se plavě mísí,  
 nad silnicí trojram lysý,  
 na něm čtyři chlapi visí.
+
+</section>
