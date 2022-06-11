@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-balady-a-romance-8033205",
-  "revision": "8033205",
+  "identifier": "neruda-balady-a-romance-ff83954",
+  "revision": "ff83954",
   "readingOrder": [
     "promo.html",
     "balady_a_romance_005.html",
@@ -33,8 +33,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:46:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883216028
+    "date": "Sat Jun 11 2022 11:48:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948114232
   },
   "documents": [
     {
