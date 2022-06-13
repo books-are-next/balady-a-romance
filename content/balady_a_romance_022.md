@@ -15,7 +15,7 @@ Polka sedí v zlatých saních, chce až k vzdálenému městu —
 „Nuže, jeď už, milá polko, šťastnou cestu, šťastnou cestu!  
 Ti se budou v pyšném městě, co to přišlo ze vsi, dívat,  
 budou nožičkami šoupat, boky vzpírat, bujně zpívat!“  
-                       Polka jede — polka jede.
+            Polka jede — polka jede.
 
 </section>
 
@@ -29,7 +29,7 @@ A ta polka — je to holka! Je-li pak kde druhá v světě,
 v očích hvězdičky jí hoří, po tvářích jí růže květe,  
 veselostí v mladém těle každá žilka jinou hraje,  
 věčně je jí do zpívání, do skoku a do mumraje.  
-                       Polka jede — polka jede.
+            Polka jede — polka jede.
 
 </section>
 
@@ -43,7 +43,7 @@ Polka na zem seskočila, sníh si s lesklých tváří stírá —
 „Což tu není nikdo kolem, kdože hostem odevírá?“  
 rozhlídla se po staveních, přistoupila ku okénku,  
 uvnitř hlas se ozval hrubý: „Kdo to na nás klepá venku?“ —  
-                       „Polka jede — polka jede.“ —
+            „Polka jede — polka jede.“ —
 
 </section>
 
@@ -57,7 +57,7 @@ stěny plny klarinetů, v každém koutě basa bručí,
 dvéře do noty nám vržou, kamna k tomu fagot hučí.  
 Honem, ženo, pospěš městem, sezvi bohaté i chudé,  
 sezvi nám sem staré mladé, ohlašuj a zvěstuj všude:  
-                       Polka jede — polka jede!“
+            Polka jede — polka jede!“
 
 </section>
 
@@ -71,6 +71,6 @@ Hej ten výskot, hej ta vřava! Tisícům se svítí oči —
 je to přelud nebo pravda — vždyť i světnice se točí —  
 stěna sem tam otáčí se, kamna sem tam potácejí,  
 lavice se nadzdvihují, trámy v stropě obracejí —  
-                       polka jede — polka jede!
+            polka jede — polka jede!
 
 </section>

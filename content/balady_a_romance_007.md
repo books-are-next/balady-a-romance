@@ -40,8 +40,8 @@ nebude ti hlavičku tvou bodat úpal více!“
 
      Nad kostelem velké zvony do vůkolí zvoní,  
 lid se sbíhá, v prsa bije, zázraku se kloní:  
-               jak to dětská duše snila,  
-               vůle boží vyplnila.
+            jak to dětská duše snila,  
+            vůle boží vyplnila.
 
 </section>
 
