@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-ff83954';
+const CACHE = 'cache-76207ce';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./balady_a_romance_005.html","./balady_a_romance_006.html","./balady_a_romance_008.html","./balady_a_romance_009.html","./balady_a_romance_010.html","./balady_a_romance_011.html","./balady_a_romance_012.html","./balady_a_romance_013.html","./balady_a_romance_007.html","./balady_a_romance_014.html","./balady_a_romance_015.html","./balady_a_romance_016.html","./balady_a_romance_017.html","./balady_a_romance_018.html","./balady_a_romance_019.html","./balady_a_romance_020.html","./balady_a_romance_021.html","./balady_a_romance_022.html","./balady_a_romance_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_balady_a_romance2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./balady_a_romance_005.html","./balady_a_romance_006.html","./balady_a_romance_007.html","./balady_a_romance_008.html","./balady_a_romance_009.html","./balady_a_romance_010.html","./balady_a_romance_011.html","./balady_a_romance_012.html","./balady_a_romance_013.html","./balady_a_romance_014.html","./balady_a_romance_015.html","./balady_a_romance_016.html","./balady_a_romance_017.html","./balady_a_romance_018.html","./balady_a_romance_019.html","./balady_a_romance_020.html","./balady_a_romance_021.html","./balady_a_romance_022.html","./balady_a_romance_023.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_balady_a_romance2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

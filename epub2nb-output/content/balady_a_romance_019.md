@@ -54,6 +54,6 @@ a ten je jak liška rudý;
 sivé oči jako liška,  
 tělo vychrtlé jak tříštka,  
 a je —““  
-                  „Dej mi tedy toho!“
+            „Dej mi tedy toho!“
 
 </section>
