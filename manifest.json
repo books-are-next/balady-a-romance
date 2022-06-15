@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-balady-a-romance-76207ce",
-  "revision": "76207ce",
+  "identifier": "neruda-balady-a-romance-0fc3e35",
+  "revision": "0fc3e35",
   "readingOrder": [
     "promo.html",
     "balady_a_romance_005.html",
@@ -33,8 +33,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:51:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157115957
+    "date": "Wed Jun 15 2022 05:46:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655271986923
   },
   "documents": [
     {
@@ -432,8 +432,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 114,
-      "chars": 721,
+      "words": 128,
+      "chars": 828,
       "ideas": 16,
       "role": "colophon",
       "order": null,
@@ -452,8 +452,8 @@
   ],
   "totals": {
     "all": {
-      "words": 4930,
-      "chars": 26188,
+      "words": 4944,
+      "chars": 26295,
       "ideas": 835
     },
     "chapters": {
