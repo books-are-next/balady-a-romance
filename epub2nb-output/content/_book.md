@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-10T14:14:50.156Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - balady_a_romance_005.html
