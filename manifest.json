@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-balady-a-romance-2e05c8d",
-  "revision": "2e05c8d",
+  "identifier": "neruda-balady-a-romance-59bcc06",
+  "revision": "59bcc06",
   "readingOrder": [
     "promo.html",
     "balady_a_romance_005.html",
@@ -31,11 +31,11 @@
     "balady_a_romance_021.html",
     "balady_a_romance_022.html",
     "balady_a_romance_023.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:53:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978009595
+    "date": "Thu Jul 07 2022 08:14:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181683730
   },
   "documents": [
     {
@@ -184,7 +184,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Romance o Karlu IV.",
+          "name": "Romance o Karlu IV.",
           "id": null,
           "children": []
         }
@@ -204,7 +204,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Romance o jaře 1848",
+          "name": "Romance o jaře 1848",
           "id": null,
           "children": []
         }
@@ -419,12 +419,12 @@
       "role": "chapter",
       "order": 19,
       "prev": "balady_a_romance_022.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Balada o svatbě v Kanaán",
+          "name": "Balada o svatbě v Kanaán",
           "id": null,
           "children": []
         }
@@ -432,11 +432,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 128,
-      "chars": 828,
+      "chars": 827,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "balady_a_romance_023.html",
       "next": null,
@@ -453,8 +453,8 @@
   ],
   "totals": {
     "all": {
-      "words": 4945,
-      "chars": 26301,
+      "words": 4944,
+      "chars": 26305,
       "ideas": 836
     },
     "chapters": {

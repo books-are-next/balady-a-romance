@@ -34,7 +34,7 @@ readingOrder:
   - balady_a_romance_021.html
   - balady_a_romance_022.html
   - balady_a_romance_023.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
