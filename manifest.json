@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-balady-a-romance-6191600",
-  "revision": "6191600",
+  "identifier": "neruda-balady-a-romance-b19ce27",
+  "revision": "b19ce27",
   "readingOrder": [
     "promo.html",
     "balady_a_romance_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:56:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187809907
+    "date": "Thu Jul 21 2022 14:48:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414902155
   },
   "documents": [
     {
@@ -434,7 +434,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 128,
-      "chars": 827,
+      "chars": 828,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -453,8 +453,8 @@
   ],
   "totals": {
     "all": {
-      "words": 4944,
-      "chars": 26305,
+      "words": 4945,
+      "chars": 26301,
       "ideas": 836
     },
     "chapters": {
