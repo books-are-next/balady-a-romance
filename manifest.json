@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-balady-a-romance-daf7bed",
-  "revision": "daf7bed",
+  "identifier": "neruda-balady-a-romance-fcd8a1d",
+  "revision": "fcd8a1d",
   "readingOrder": [
     "promo.html",
     "balady_a_romance_005.html",
@@ -34,8 +34,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:18:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486299303
+    "date": "Sat Oct 01 2022 15:49:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639393120
   },
   "documents": [
     {
